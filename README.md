@@ -14,7 +14,7 @@
 
 ## How to Run
 **Assignment 1:** Right Click on TestNG.xml under project root directly then select Run as TestNG Suite.<br/>
-**Assignment 2:** Document is attach directly into repository.<br/>
+**Assignment 2:** Document is attach directly into repository. **[Link](https://github.com/shankar5522/Assignment_QuantInsti/blob/master/QuantInsti_Assignment_2_Cases.docx)**<br/>
 **Assignment 3:** Goto TC_Multiplies_Sum.java by right clicking and then select Run as Java Applications.<br/>
 
 ## Limitation
